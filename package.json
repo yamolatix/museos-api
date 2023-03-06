@@ -1,0 +1,15 @@
+{
+  "name": "museos-arg-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "service": "json-server --watch museos.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.2"
+  }
+}
