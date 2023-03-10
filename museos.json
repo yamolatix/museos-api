@@ -356,37 +356,37 @@
             "id": 1,
             "img": "https://www.cultura.gob.ar/static/images/museo-mnba.c23f76cacacf.png",
             "nombre": "Museo Nacional de Bellas Artes",
-            "ubicación": "CABA"
+            "ubicacion": "CABA"
         },
         {
             "id": 2,
             "img": "https://www.cultura.gob.ar/static/images/museo-mhn.9e5d3710a4f3.png",
             "nombre": "Museo Histórico Nacional",
-            "ubicación": "CABA"
+            "ubicacion": "CABA"
         },
         {
             "id": 3,
             "img": "https://www.cultura.gob.ar/static/images/museo-jesuitica.e9753c4c13c1.png",
             "nombre": "Estancia de Jesús María - Museo Jesuítico Nacional",
-            "ubicación": "Córdoba"
+            "ubicacion": "Córdoba"
         },
         {
             "id": 4,
             "img": "https://www.cultura.gob.ar/static/images/museo-cabildo.ebb322f391a5.png",
             "nombre": "Museo Nacional del Cabildo y la Revolución de Mayo",
-            "ubicación": "CABA"
+            "ubicacion": "CABA"
         },
         {
             "id": 5,
             "img": "https://www.cultura.gob.ar/static/images/museo-independencia.0279bfe29343.png",
             "nombre": "Museo Casa Histórica de la Independencia",
-            "ubicación": "Tucumán"
+            "ubicacion": "Tucumán"
         },
         {
             "id": 6,
             "img": "https://www.cultura.gob.ar/static/images/museo-malvinas.e66fec796986.png",
             "nombre": "Museo Malvinas e Islas del Atlántico Sur",
-            "ubicación": "CABA"
+            "ubicacion": "CABA"
         }
     ]
 }
