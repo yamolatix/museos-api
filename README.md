@@ -22,3 +22,8 @@ GET    /museos/1
 ```bash
 GET    /museos?q=casa
 ```
+
+### Most visited museums
+```bash
+GET    /masvisitados
+```

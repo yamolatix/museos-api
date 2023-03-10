@@ -350,5 +350,43 @@
             "descripcion": "<p>La Casa Nacional del Bicentenario fue inaugurada en el a&ntilde;o 2010 como un espacio dedicado a la historia argentina. A partir del a&ntilde;o 2016 se inicia una reconversi&oacute;n con el objetivo de destinar el espacio al arte contempor&aacute;neo argentino, a grandes muestras de fotograf&iacute;a, a una programaci&oacute;n de vanguardia en t&eacute;rminos de arte sonoro, a ciclos de cine, talleres y seminarios.</p>\r\n<p>Hoy la CNB se encamina a convertirse en un espacio de referencia de la creaci&oacute;n contempor&aacute;nea en el sentido m&aacute;s amplio. A la manera de los espacios culturales que marcaron la recuperaci&oacute;n democr&aacute;tica, propone una invitaci&oacute;n permanente a que el p&uacute;blico explore nuevos y m&aacute;s alejados lindes del arte y que a su vez descubra a los grandes maestros que fueron adelantados en esos territorios de innovaci&oacute;n.</p>\r\n<p>La CNB se encuentra bajo la &oacute;rbita de la Direcci&oacute;n Nacional de Museos (Secretar&iacute;a de Patrimonio, Ministerio de Cultura de la Naci&oacute;n). A diferencia de la mayor&iacute;a de los museos nacionales, no posee una colecci&oacute;n propia y su identidad se basa en las exposiciones temporarias y los programas de m&uacute;sica, teatro, danza y cine que elaboran conjuntamente las diversas &aacute;reas de su equipo.</p>\r\n<p>&nbsp;</p>",
             "email": "casa@casadelbicentenario.gob.ar"
         }
+    ],
+    "masvisitados": [
+        {
+            "id": 1,
+            "img": "https://www.cultura.gob.ar/static/images/museo-mnba.c23f76cacacf.png",
+            "nombre": "Museo Nacional de Bellas Artes",
+            "ubicación": "CABA"
+        },
+        {
+            "id": 2,
+            "img": "https://www.cultura.gob.ar/static/images/museo-mhn.9e5d3710a4f3.png",
+            "nombre": "Museo Histórico Nacional",
+            "ubicación": "CABA"
+        },
+        {
+            "id": 3,
+            "img": "https://www.cultura.gob.ar/static/images/museo-jesuitica.e9753c4c13c1.png",
+            "nombre": "Estancia de Jesús María - Museo Jesuítico Nacional",
+            "ubicación": "Córdoba"
+        },
+        {
+            "id": 4,
+            "img": "https://www.cultura.gob.ar/static/images/museo-cabildo.ebb322f391a5.png",
+            "nombre": "Museo Nacional del Cabildo y la Revolución de Mayo",
+            "ubicación": "CABA"
+        },
+        {
+            "id": 5,
+            "img": "https://www.cultura.gob.ar/static/images/museo-independencia.0279bfe29343.png",
+            "nombre": "Museo Casa Histórica de la Independencia",
+            "ubicación": "Tucumán"
+        },
+        {
+            "id": 6,
+            "img": "https://www.cultura.gob.ar/static/images/museo-malvinas.e66fec796986.png",
+            "nombre": "Museo Malvinas e Islas del Atlántico Sur",
+            "ubicación": "CABA"
+        }
     ]
 }
